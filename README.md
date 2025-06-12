@@ -1,16 +1,27 @@
-## Hi there 👋
+## 🪫 welcome
 
-<!--
-**riakey/riakey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+this is the thing. it does... something. probably.
+i made it during one of those weeks where time stops feeling real and you just sort of improvise until your eyes hurt.
+what is this?
 
-Here are some ideas to get you started:
+honestly? a bunch of scripts and functions duct-taped together with mild hope and reckless confidence.
+it might work. it might not. sometimes i look at it and feel things. other times i forget i made it.
+features
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    logic, kind of
+
+    errors, definitely
+
+    strange decisions, always
+
+    commented code? lol
+
+how to run
+
+    clone the thing
+
+    install the things
+
+    run it
+
+    stare into the void and see if anything happens
